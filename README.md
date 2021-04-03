@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning javascript, html and css
 - 💞️ I’m looking to collaborate on some project with javascript, html, and css
 - I'm still a beginner but i'm gladly to work and learn with you
-- 📫 My Email: embangwicaksono@gmail.com
+- 📫 My Email: embangwicaksono@gmail.com twitter: @mikotoboku
 
 

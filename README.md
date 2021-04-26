@@ -5,6 +5,6 @@ Hello, I’m Embang Aulia Wicaksono but you can call me embang
 - 🌱 I’m currently learning javascript, html and css
 - 💞️ I’m looking to collaborate on some project with javascript, html, and css
 - 🔰  I'm still a beginner but i'm gladly to work and learn with you
-- 📫 you can reach me on my email: embangwicaksono@gmail.com or twitter: @mikotoboku
+- 📫 you can reach me on my email: embangwicaksono@gmail.com or twitter: [@aria_kakao](https://twitter.com/aria_kakao)
 
 
